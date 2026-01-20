@@ -1,4 +1,4 @@
-# Title
+# Settlement Engine
 
 The code in this repository goes along with my blog post, [Modeling a
 Multi-Currency Settlement
